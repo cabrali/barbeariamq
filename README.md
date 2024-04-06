@@ -1,2 +1,0 @@
-# barbeariamq
-codigo da barbearia
